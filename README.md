@@ -1,0 +1,1 @@
+# desafio-tecnico-G4F-crud-api-noticia
