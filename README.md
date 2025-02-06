@@ -1,6 +1,11 @@
 # Desafio Técnico - G4F - CRUD REST API - Notícia
 ## Este repositório contém a solução para o desafio técnico G4F de implementar uma api crud rest para entidade "notícia".
 
+## Dependências necessárias
+- Docker
+- Node v22.13.1
+- Npm v10.9.2
+
 ## Baixar o Código Fonte
 Para baixar o código fonte, é necessário ter o Git instalado em sua máquina.
 
@@ -14,7 +19,15 @@ Isso fará o download do repositório para sua máquina local.
 
 ## Executar a Aplicação Localmente
 
-1. Executar os Testes
+1. Instalar dependências do projeto
+
+Para iniciar, execute o seguinte comando no terminal:
+
+```
+npm install
+```
+
+2. Executar os Testes
 
 Para rodar os testes da aplicação, execute o seguinte comando no terminal:
 
@@ -24,7 +37,7 @@ npm test
 
 Isso executará os testes configurados na aplicação.
 
-2. Iniciar a Aplicação Localmente
+3. Iniciar a Aplicação Localmente
 
 Para iniciar a aplicação localmente, execute o comando:
 
