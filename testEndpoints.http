@@ -19,8 +19,8 @@ POST http://localhost:5000/noticias HTTP/1.1
 Content-Type: application/json
 
 {
-  "titulo": "Nova notícia 8.",
-  "descricao": "Detalhes sobre a nova notícia 8."
+  "titulo": "Impacto da Inteligência Artificial nas Indústrias do Futuro: Como as Tecnologias Emergentes Estão Redefinindo o Mercado de Trabalho e a Produção Global. O avanço da inteligência artificial (IA) está transformando rapidamente diversos setores, desde a manufatura até a saúde e a educação. Empresas estão adotando IA para otimizar processos, melhorar a eficiência e criar novas oportunidades de negócio. Com a automação em ascensão, muitas funções humanas estão sendo substituídas por sistemas inteligentes, mas também estão surgindo novas profissões e áreas de atuação. O desafio será equilibrar inovação tecnológica com os impactos sociais e econômicos dessa transformação disruptiva.",
+  "descricao": "A integração da inteligência artificial (IA) nas indústrias visa aumentar a produtividade e reduzir custos. A automação de processos repetitivos e o uso de algoritmos para prever tendências permitem uma produção mais eficiente e menos propensa a erros. Porém, a adoção massiva da IA também levanta questões sobre a substituição de empregos, criando uma necessidade urgente de requalificação da força de trabalho."
 }
 
 ###

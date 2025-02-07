@@ -81,4 +81,3 @@ A estrutura de diretórios foi organizada com base nos princípios de modulariza
 
 Considerações Finais
 Certifique-se de ter as dependências corretamente instaladas antes de rodar a aplicação.
-Caso utilize Docker, verifique se o Docker está instalado e configurado corretamente em sua máquina.
